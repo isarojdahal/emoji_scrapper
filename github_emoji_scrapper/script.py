@@ -1,3 +1,8 @@
+"""
+	AUTHOR : Saroj Dahal / @originalsaroj
+	VERSION: 1.0.0.0
+"""
+
 import requests
 import os
 
