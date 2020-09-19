@@ -1,8 +1,9 @@
 <h1> Do you need best emoji for your software or web applications?</h1>
 Then these pythons scripts are for you.
 
-<h3>Usage</h3>
-<hr/>
+###Usage
+------
+
 <li>Clone/Download the emoji_scrapper project</li>
 <li>open the required emoji folder such as google_emoji_scrapper,....</li>
 <li>run the script.py</li><br/>
@@ -10,3 +11,4 @@ Then these pythons scripts are for you.
 
 <br/>
 <small><strong>That's it</strong></small>
+Happy Coding.
